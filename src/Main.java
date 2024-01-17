@@ -3,4 +3,4 @@ public class Main {
         System.out.println("Mishustin");
         System.out.println("Sanzhar");
     }
-}a
+}
